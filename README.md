@@ -1,4 +1,4 @@
-# adnmb-goodmoring
+# adnmb-goodmorning
 A岛微博自动评论，咕猫宁的说！
 
 每五分钟查询“A岛匿名版”微博最新动态，实现评论：
