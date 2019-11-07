@@ -22,3 +22,8 @@
 - [x] 获取cookie用接口发送请求
 - [ ] 调整schedule定时任务，合理分配网络资源
 
+# dev
+
+dev分支采用pyppeteer直接模拟登陆，可直接运行
+
+ps.这个项目主要用来满足每日抢评论的需求和熟悉pyppeteer 和 smtp
