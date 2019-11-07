@@ -163,3 +163,6 @@ Temporary Items
 .idea/.gitignore
 .idea/misc.xml
 .vscode/
+
+./page.js
+./weibo-qq-login.png
