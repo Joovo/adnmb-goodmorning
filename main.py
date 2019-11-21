@@ -13,8 +13,8 @@ with open('UA.in') as f:
 
 get_random_ua = lambda: random.choice(ua_list)
 SECRET_PASS = 'your secret pass'
-phone = '17794519083'
-password = 'jh19980430.'
+phone = 'your phone num'
+password = 'your pwd'
 
 no_cat = True
 reply_message = '📢 在最美的年华，做最喜欢的事情的说，别辜负了美好时光。借时光之手，暖一处花开，借一方晴空，拥抱梦想的说。早安的说！'
